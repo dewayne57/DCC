@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "project_config.h": "c"
+  },
+  "search.exclude": {
+    "**/*.hex": true,
+    "**/*.map": true,
+    "**/*.lst": true,
+    "**/*.o": true,
+    "**/*.obj": true
+  }
+}

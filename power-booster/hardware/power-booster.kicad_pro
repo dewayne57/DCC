@@ -1,0 +1,17 @@
+{
+  "board": {
+    "design_settings": {
+      "defaults": {
+        "board_outline_line_width": 0.1
+      }
+    }
+  },
+  "meta": {
+    "filename": "power-booster.kicad_pro",
+    "version": 1
+  },
+  "schematic": {
+    "legacy_lib_dir": "",
+    "net_format_name": ""
+  }
+}
