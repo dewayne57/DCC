@@ -1,0 +1,18 @@
+{
+  "folders": [
+    { "path": "." },
+    { "path": "power-booster" },
+    { "path": "command-station-cab" },
+    { "path": "diagnostic-tool" },
+    { "path": "signal-controller-example" }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/*.hex": true,
+      "**/*.map": true,
+      "**/*.lst": true,
+      "**/*.o": true,
+      "**/*.obj": true
+    }
+  }
+}

@@ -1,0 +1,10 @@
+(kicad_sch
+  (version 20230121)
+  (generator "copilot")
+  (uuid "00000000-0000-0000-0000-000000000000")
+  (paper "A4")
+  (title_block
+    (title "DCC Power Booster")
+    (company "dewayne57/DCC")
+    (comment 1 "PIC18F47Q43"))
+)
